@@ -1,0 +1,57 @@
+body {  
+  background-color: #b7b5c3;  
+  background-image: url("background.jpg");
+  background-attachment: fixed;
+}
+
+.col-wrapper {  
+  margin-top: 0px;  
+  margin-right: auto;  
+  margin-bottom: 0px;  
+  margin-left: auto;  
+  width: 960px;  
+  display: inline;
+}
+
+.col {  
+  margin-top: 0px;  
+  margin-right: 10px;  
+  margin-bottom: 0px;  
+  margin-left: 10px;  
+  position:absolute;
+}
+
+.col-1 {  
+  width: 250px;
+  top:100px;
+}
+
+.col-2 {  
+  width: 430px;
+  left:280px;
+  top:90px;
+}
+
+.col-3 {  
+  width: 280px;
+  left:700px;
+  top:100px;
+}
+
+#welcome_image {  
+  position: absolute;
+}
+
+.div:hover {  
+  position: fixed;
+}
+
+.footer {  
+  position:absolute;
+  top:1300px;
+}
+
+.subfooter {  
+  position:absolute;
+  top:1500px;
+}
